@@ -7,8 +7,6 @@ Moving on, the couch originally ran on python, but the code was stupid and undoc
 
 # Important Notes
 
-Arnav Surjan is not allowed to drive the couch!!!
-
 Do not touch the joysticks while turning on the couch!
 
 ## How to turn it on?
